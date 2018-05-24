@@ -1,5 +1,4 @@
 ﻿using EventManagement.Domain.ConcertAggregate;
-using EventManagement.ValueObjects;
 using Shared.Date;
 using System;
 

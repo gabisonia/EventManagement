@@ -1,11 +1,8 @@
 ﻿using EventManagement.ConcertAggregate;
 using EventManagement.SeatTypeAggregate;
-using EventManagement.ValueObjects;
 using Shared;
 using Shared.Models.Money;
 using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace EventManagement.Application.UseCases.CreateSeatType
 {

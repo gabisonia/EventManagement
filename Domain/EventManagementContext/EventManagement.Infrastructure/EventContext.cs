@@ -1,9 +1,6 @@
 ﻿using EventManagement.ConcertAggregate;
-using EventManagement.ValueObjects;
 using Microsoft.EntityFrameworkCore;
 using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace EventManagement.Infrastructure
 {

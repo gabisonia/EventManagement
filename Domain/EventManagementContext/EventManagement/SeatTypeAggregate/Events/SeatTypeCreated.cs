@@ -1,10 +1,6 @@
 ﻿using EventManagement.ConcertAggregate;
-using EventManagement.SeatTypeAggregate;
-using EventManagement.ValueObjects;
 using Shared;
 using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace EventManagement.SeatTypeAggregate
 {
@@ -23,6 +19,7 @@ namespace EventManagement.SeatTypeAggregate
         public int Quantity { get; }
         public Tuple<string, decimal> Price { get; }
     }
+
     public class SeatTypeCreated : DomainEvent, ICreateEvent
     {
         public SeatTypeCreated(SeatTypeSnapshot snapshot, ConcertId concertId)

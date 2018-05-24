@@ -1,5 +1,4 @@
 ﻿using EventManagement.ConcertAggregate;
-using EventManagement.ValueObjects;
 using Newtonsoft.Json;
 using Shared;
 using Shared.Models.Money;

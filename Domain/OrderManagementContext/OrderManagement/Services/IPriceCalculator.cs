@@ -1,9 +1,7 @@
 ﻿using OrderManagement.Domain.OrderAggregate;
 using OrderManagement.OrderAggregate;
 using Shared.Models.Money;
-using System;
 using System.Collections.Generic;
-using System.Text;
 
 namespace OrderManagement.Domain.Services
 {

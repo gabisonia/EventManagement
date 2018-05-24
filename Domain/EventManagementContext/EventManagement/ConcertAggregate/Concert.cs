@@ -1,6 +1,5 @@
 ﻿using EventManagement.Domain.ConcertAggregate;
 using EventManagement.Domain.ConcertAggregate.Events;
-using EventManagement.ValueObjects;
 using Newtonsoft.Json;
 using Shared;
 using System;

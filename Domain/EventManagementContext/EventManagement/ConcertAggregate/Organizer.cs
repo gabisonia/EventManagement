@@ -1,7 +1,6 @@
 ﻿using Shared.model;
 using System;
 using System.Collections.Generic;
-using System.Text;
 
 namespace EventManagement.Domain.ConcertAggregate
 {

@@ -1,8 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using OrderManagement.Domain.OrderAggregate;
+﻿using OrderManagement.Domain.OrderAggregate;
 using Shared.Models.Money;
+using System.Collections.Generic;
 using System.Linq;
 
 namespace OrderManagement.Domain.Services
